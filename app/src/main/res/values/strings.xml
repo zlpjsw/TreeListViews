@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TreeListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_folding_list_view">FoldingListView</string>
+    <string name="title_activity_un_folding_list_view">UnFoldingListView</string>
+</resources>
